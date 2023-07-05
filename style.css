@@ -2,8 +2,13 @@ h2 {
     color: red;
     background-color: gray;
 }
-p{
+
+p {
     background-color: antiquewhite;
     /* font-style: italic; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color: blue
 }
